@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerViewBooks" type="id"/>
+    <item name="authorTextView" type="id"/>
+    <item name="titleTextView" type="id"/>
+    <item name="imageViewCoverDetail" type="id"/>
+    <item name="descriptionTextView" type="id"/>
+    <item name="publishedDateTextView" type="id"/>
+    <item name="pageCountTextView" type="id"/>
+    <item name="averageRatingTextView" type="id"/>
+</resources>

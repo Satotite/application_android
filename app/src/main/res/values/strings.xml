@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">gestion_livre</string>
+    <string name="title_book_detail">Book Details</string>
+    <string name="enter_votre_email">Entrez votre email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="app_logo">M</string>
+    <string name="book_image">book image</string>
+    <string name="description_de_l_auteur">Description de l\'auteur</string>
+    <string name="resume_du_livre">Résumé du livre: </string>
+    <string name="date_de_sortie">Date de sortie:</string>
+    <string name="rating">Rating:</string>
+    <string name="Pages">Pages: </string>
+    <string name="view_collection">view_collection</string>
+    <string name="Deconexion">"Deconnexion "</string>
+</resources>

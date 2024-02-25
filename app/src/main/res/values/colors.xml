@@ -1,0 +1,5 @@
+
+<resources>
+    <color name="readBookTitle">#367A39</color>
+    <color name="unreadBookTitle">#8C0A00</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305339471277",
+    "project_id": "application-livres-7e79e",
+    "storage_bucket": "application-livres-7e79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305339471277:android:f0164e0bd88c51e484fd24",
+        "android_client_info": {
+          "package_name": "com.example.gestion_livre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzS1KGNtId8FYhcgEUArW1zFVRiIUiTbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
